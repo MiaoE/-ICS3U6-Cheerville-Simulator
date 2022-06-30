@@ -1,5 +1,5 @@
 # -ICS3U6-Cheerville-Simulator
-One of the unit summatives for ICS3U6, Pre-AP Computer Science.
+One of the unit summatives for ICS3U6, grade 11 Pre-AP Computer Science.
 
 This project utilizes OOP concepts such as inheritance, encapsulation, polymorphism, and abstraction.
 
