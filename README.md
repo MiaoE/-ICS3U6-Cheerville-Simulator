@@ -1,7 +1,5 @@
 # Cheerville-Simulator
 
-This project utilizes OOP concepts such as inheritance, encapsulation, polymorphism, and abstraction.
-
 - At the beginning, a random number of human beings and plants, and small number of zombies spawn on a grid of the world. Humans are either male or female, spawned at random age, and their health is a random number between a range given by the user. Plants are given a random nutrition values between a range, and plants spawn at a certain rate also given by the user. Zombies are at a fixed health.
 - The movement for humans and zombies are random each tick.
 - Every tick human's age increases by 1, zombie's health decreases by 1.
@@ -11,3 +9,5 @@ This project utilizes OOP concepts such as inheritance, encapsulation, polymorph
 - If zombie and human lands on the same square: if zombie's health is greater than the human, the human gets killed; otherwise the human gets infected.
 
 There is also population bar graph implemented with the program.
+
+This project utilizes OOP concepts such as inheritance, encapsulation, polymorphism, and abstraction.
